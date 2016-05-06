@@ -252,6 +252,14 @@ footer {
     padding:0;
   }
 
+  .calendarWrapper {
+    padding: 0 !important;
+  }
+
+  .calendarText {
+    padding-left: 120px;
+  }
+
   header ul, header p.view {
     position:static;
   }
